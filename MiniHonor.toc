@@ -2,7 +2,7 @@
 ## Title: MiniHonor
 ## Notes: Displays current honor / max honor in a small draggable frame
 ## Author: clearcmos
-## Version: 1.0
+## Version: 1.0.0
 ## SavedVariables: MiniHonorDB
 
 MiniHonor.lua
