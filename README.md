@@ -1,8 +1,12 @@
+<img src="https://github.com/clearcmos/MiniHonor/blob/main/assets/logo.png?raw=true" alt="MiniHonor Logo" width="100">
+
 # MiniHonor
 
 A minimal honor display widget. See your honor at a glance.
 
 Built for **WoW Classic Anniversary Edition**.
+
+<img src="https://github.com/clearcmos/MiniHonor/blob/main/assets/image1.png?raw=true" alt="MiniHonor Display" width="400">
 
 ---
 
